@@ -44,11 +44,8 @@
 
 </details>
 
-<<<<<<< HEAD
+
 soya2
-=======
-moin
->>>>>>> c8d0d4928b0ba71caa782ce1b92ba8929e46911c
 
 
 
